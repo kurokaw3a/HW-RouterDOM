@@ -1,0 +1,21 @@
+.pending {
+    color: white;
+    text-decoration: none;
+}
+.active {
+    color: black;
+    text-decoration: none;
+
+}
+
+.details {
+    background: #4dae8a;
+    border: none;
+    border-radius: 25px;
+    padding: 15px 40px 15px 40px;
+    font-size: 25px;
+    color: white;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
